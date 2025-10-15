@@ -1,0 +1,24 @@
+{
+  "name": "com.aryosense.controller",
+  "displayName": "Aryosense Dynamic Character Controller",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A modular dynamic movement system for Unity characters with configurable parameters and runtime adaptability.",
+  "keywords": ["character", "controller", "movement", "runtime", "system"],
+  "category": "Controllers",
+  "author": {
+    "name": "Aryosense Team",
+    "email": "support@aryosense.com",
+    "url": "https://github.com/aryosense"
+  },
+  "dependencies": {
+    
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A simple demo showcasing character movement setup.",
+      "path": "Sample"
+    }
+  ]
+}
